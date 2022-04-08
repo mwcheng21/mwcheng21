@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Hi+I'm+Micah+%F0%9F%91%8B)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&center=true&lines=A+software+developer+from+Columbia+University)](https://git.io/typing-svg)
+[!header image](/header.png)
 
-[![Gmail Badge](https://img.shields.io/badge/-mwcheng@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mwcheng@umich.edu)](mailto:mwcheng@umich.edu)
+[![Gmail Badge](https://img.shields.io/badge/-mwcheng-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mwcheng@umich.edu)](mailto:mwcheng@umich.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-mwche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwche/)](https://www.linkedin.com/in/mwche/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mwcheng21)](https://github.com/mwcheng21)
+[![Website Badge](https://img.shields.io/badge/-mwcheng21.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mwcheng21.github.io/)](https://mwcheng21.github.io/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwcheng21&show_icons=true&locale=en" alt="mwcheng21" /></p>
 <hr>
