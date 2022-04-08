@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Colombia University</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-mwcheng@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mwcheng@umich.edu)](mailto:mwcheng@umich.edu)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwche/)](https://www.linkedin.com/in/minoveaz/)
+[![Linkedin Badge](https://img.shields.io/badge/-mwche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwche/)](https://www.linkedin.com/in/mwche/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mwcheng21)](https://github.com/mwcheng21)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwcheng21&show_icons=true&locale=en" alt="mwcheng21" /></p>
