@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Micah</h1>
-<h3 align="center">A software developer from Colombia University</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Hi+I'm+Micah+%F0%9F%91%8B)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&center=true&lines=A+software+developer+from+Columbia+University)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-mwcheng@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mwcheng@umich.edu)](mailto:mwcheng@umich.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-mwche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwche/)](https://www.linkedin.com/in/mwche/)
